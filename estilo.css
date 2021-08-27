@@ -42,7 +42,7 @@ header{
 .menu__side{
     width: 80px;
     height: 100%;
-    background: darkcyan;
+    background: rgb(146, 21, 219);
     position: fixed;
     top: 0;
     left: 0;
@@ -51,7 +51,7 @@ header{
     z-index: 300px;
     overflow: hidden;
     overflow-y: scroll;
-    border-right: 30px solid darkcyan;
+    border-right: 30px solid rgb(146, 21, 219);
     
 }
 
@@ -156,3 +156,16 @@ a.selected{
     padding: 20px 20px;
     margin: 60px 30px;
 }
+
+.Inicio h1{
+    padding: 20px;
+    margin: 20px 20px;
+    text-align: center;
+}
+
+.Inicio img{
+    padding: 20px 20px;
+    margin: 20px 20px;
+
+}
+
