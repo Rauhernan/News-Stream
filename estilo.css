@@ -268,3 +268,26 @@ a.selected{
     align-items: center;
 }
 
+.generos h1{
+    color:ghostwhite;
+}
+
+.principal_button {
+    width: 270px;
+    height: 50px;
+    background-color: #0026ff;
+    border-radius: 24px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+.generos img{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
